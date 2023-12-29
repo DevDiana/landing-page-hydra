@@ -1,3 +1,5 @@
+![image](https://github.com/DevDiana/landing-page-hydra/assets/63608845/bb9ccee4-68d4-4dc4-a243-e7212ad5e5dc)
+
 # Landing Page Hydra
 
 ## Descrição do Projeto
