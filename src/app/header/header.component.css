@@ -1,0 +1,53 @@
+* {
+  color: white;
+}
+.container-fluid {
+  padding-bottom: 35px;
+}
+.img-principal {
+  margin-left: 68px;
+}
+.space {
+  padding-left: 15px;
+  color: white;
+}
+.space-two {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+  padding-top: 10px;
+}
+h1 {
+  color: white;
+}
+.degrade {
+  background: linear-gradient(92deg, #c0b7e8 -1.02%, #8176af 36.25%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+button {
+  border: none;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(90deg, #c0b7e8 0%, #8176af 100%);
+}
+p {
+  line-height: normal;
+}
+.imagem-principal {
+  width: 50%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 32px;
+  margin-left: 23%;
+}
