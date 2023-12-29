@@ -1,27 +1,28 @@
-# LandingPageHydra
+# Landing Page Hydra
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+## Descrição do Projeto
 
-## Development server
+A Landing Page Hydra é uma introdução visualmente envolvente e informativa sobre tecnologia. Link do projeto : [[https://landing-page-hydra.vercel.app/](https://landing-page-hydra.vercel.app/)]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Técnicas e Tecnologias Utilizadas
 
-## Code scaffolding
+- **Angular 17:** Utilizado como o principal framework de desenvolvimento.
+- **Responsividade:** Design adaptado para garantir uma experiência consistente em diferentes dispositivos.
+- **Boas Práticas:** Adotadas práticas de codificação e design atuais para garantir a qualidade do código.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- ## Instruções de Uso:
 
-## Build
+1. Certifique-se de ter o Node.js e o Angular CLI instalados em seu computador.
+2. Faça o download ou clone este repositório em sua máquina local.
+3. Navegue até o diretório do projeto no terminal.
+4. Instale as dependências do projeto executando o comando: `npm install`
+5. Para iniciar a aplicação em ambiente de desenvolvimento, execute o comando: `ng serve`
+6. Acesse a aplicação em seu navegador em: `http://localhost:4200/`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Autora
 
-## Running unit tests
+[Diana Regina] - [devdianaregina@gmail.com](mailto:devdianaregina@gmail.com)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Observação:** Este é um projeto em constante evolução. Novas funcionalidades e projetos serão adicionados ao longo do tempo para refletir meu desenvolvimento contínuo como profissional.
